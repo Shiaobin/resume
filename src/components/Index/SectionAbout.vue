@@ -1,16 +1,9 @@
 <template>
   <div>
-    <h1>
-        About Max
-    </h1>
+    <h1>About Shiaobin</h1>
     <div class="ui container" id="about">
-      <div class="ui segment">
-        <p style="font-size: 1.05em;">
-          Max is a Software Engineer (Mainly focuses on Javascript/Full-stack) who has 3 years developing experience. Good at communication. Outstanding leadership. Self-motivated fast learner.
-          <br />
-          <br />
-          He has multiple startup experiences, one in the middle of 2016, the other mid-2017. Enrolled in the Y-Combinator Startup School in Sept. 2016.
-        </p>
+      <div class="ui segment" style="font-size: 1.05em;">
+        <p>(WIP.)</p>
       </div>
     </div>
   </div>

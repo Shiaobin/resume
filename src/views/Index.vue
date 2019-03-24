@@ -7,7 +7,7 @@
         <div class="space">
           <p>&nbsp;</p>
         </div>
-        
+
         <Menu />
 
         <div class="space">
@@ -27,8 +27,14 @@
       <div class="space">
         <p>&nbsp;</p>
       </div>
-      
+
       <SectionExperiences />
+
+      <div class="space">
+        <p>&nbsp;</p>
+      </div>
+
+      <SectionEducations />
 
       <div class="space">
         <p>&nbsp;</p>
@@ -36,7 +42,7 @@
 
       <SectionProjects />
     </div>
-  </div>  
+  </div>
 </template>
 
 <script>
@@ -46,6 +52,7 @@ import Menu from '@/components/Index/Menu'
 // Sections
 import SectionAbout from '@/components/Index/SectionAbout'
 import SectionExperiences from '@/components/Index/SectionExperiences'
+import SectionEducations from '@/components/Index/SectionEducations'
 import SectionProjects from '@/components/Index/SectionProjects'
 
 export default {
@@ -56,6 +63,7 @@ export default {
 
     SectionAbout,
     SectionExperiences,
+    SectionEducations,
     SectionProjects
   }
 }

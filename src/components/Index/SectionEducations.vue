@@ -1,15 +1,15 @@
 <template>
-  <div id="experiences">
-    <h1>Experiences</h1>
+  <div id="educations">
+    <h1>Educations</h1>
 
     <div class="ui styled fluid accordion container">
       <div class="title">
         <i class="dropdown icon"></i>
-        About 5 Studio - MIS / Software Engineer
+        National Sun Yat-sen University - BS degree in MIS
       </div>
       <div class="content">
         <p class="transition hidden">
-          About 5 Studio is a powerful team that creating mobile game app, and also provides computer repairing, server management and virtual server hosting.
+          National Sun Yat-sen University is a top 6 ranking university located in Kaohsiung, Taiwan.
         </p>
       </div>
 
@@ -19,6 +19,6 @@
 
 <script>
 export default {
-  name: 'SectionExperiences'
+  name: 'SectionEducations'
 }
 </script>
